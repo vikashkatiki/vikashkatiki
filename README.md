@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>🎓 B.Tech CSE | 2nd Year Student<br>🌱 Currently learning DSA, Databases, Full Stack & Data Engineering<br>💡 Interested in Big Data, Cloud, ETL Pipelines & System Design<br>🎯 Goal: To become a professional Data Engineer<br>⚡ Fun fact: I enjoy working with data more than UI 😄</p>
+<p align="left">✨ Creating bugs since 2024<br>🎓 B.Tech CSE | 2nd Year Student<br>🌱 Currently learning DSA, Databases, Full Stack & Data Engineering<br>💡 Interested in Big Data, Cloud, ETL Pipelines & System Design<br>🎯 Goal: To become a professional Data Scientist<br>⚡ Fun fact: I enjoy working with data more than UI 😄</p>
 
 ###
 
